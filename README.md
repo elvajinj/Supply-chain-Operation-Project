@@ -10,4 +10,4 @@ A. SummaryB2B.xlsm & SummaryB2C.xlsm:
 6. Item Trends- Average Pick Days order by ABC
 7. Orders by Weekday
 
-B. warehouse labor planning worksheet.csv
+B. Warehouse labor planning worksheet.csv
